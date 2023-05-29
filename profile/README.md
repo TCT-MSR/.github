@@ -7,3 +7,5 @@ If you are interested, our paper is here: https://arxiv.org/ftp/arxiv/papers/230
 Also we have a video to introduce how TCT works:
 
 [![Theorem-Carrying-Transaction](https://res.cloudinary.com/marcomontalbano/image/upload/v1685374706/video_to_markdown/images/youtube--pMiEGCuKIBI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=pMiEGCuKIBI "Theorem-Carrying-Transaction")
+
+And we also welcome you to our Discord group for more interactive discussions: https://discord.gg/WJKNcsudR9
